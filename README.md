@@ -1,4 +1,4 @@
-#👋 Hi, I’m @HetalChavada!
+👋 Hi, I’m @HetalChavada!
 
 I'm a passionate software developer with a knack for building user-friendly and efficient applications. I love exploring new technologies and taking on challenging projects. 
 
